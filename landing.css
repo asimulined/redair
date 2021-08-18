@@ -9,7 +9,7 @@ body {
 .container .section__one {
   text-align: center;
   color: white;
-  background-image: url("/assets/screenshot--31495--1@1x.png");
+  background-image: url("botsci.png");
   background-color: #010101;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -34,7 +34,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 75vh;
-  background-image: url("/assets/A220_homepage.jpg");
+  background-image: url("miles.png");
   background-size: cover;
 }
 .container .section__two .content {
@@ -57,7 +57,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 75vh;
-  background-image: url("/assets/clouds.webp");
+  background-image: url("pe.img");
   background-size: cover;
 }
 .container .section__twob .content {
